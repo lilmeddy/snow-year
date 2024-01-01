@@ -59,7 +59,3 @@ h2:hover span:nth-child(1){
     transform: translateY(64px);
     opacity: 0;
 }
-h2:hover span:nth-child(2){
-    transform: translateY(0px);
-    opacity: 1;
-}
